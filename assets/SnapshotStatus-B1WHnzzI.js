@@ -1,0 +1,1 @@
+import{Q as e,ct as t,yt as n}from"./index-B-L8qEQ2.js";var r=n();function i(){let n=e();return(0,r.jsxs)(`p`,{className:`fine-print web-snapshot-status`,children:[`Snapshot checked `,t(n.info.snapshotAt),` · Daily updates run in the local app.`]})}export{i as t};
